@@ -8,8 +8,7 @@ chai.config.includeStack = true;
 
 describe('## User APIs', () => {
   let user = {
-    username: 'KK123',
-    mobileNumber: '1234567890'
+    username: 'KK123'
   };
 
   describe('# POST /api/users', () => {

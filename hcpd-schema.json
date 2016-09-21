@@ -1,0 +1,73 @@
+// HCPD Schema -- Mongo DB
+
+
+// Collections
+/* 
+/* Sites
+/* Listing
+/* User
+
+
+*/
+
+// Sites
+[
+	{ // Start NEA
+  	"_id": "nea",
+  	"name": "National Eczema Foundation",
+  	"theme_options": {
+      "font": "blah",
+      "color": "green",
+      "body_color": "green",
+      "featured_listing_image": "blah",
+  		"header": "somehtml"
+  	},
+    "listing_options": [
+      {
+        "option_name": "Treatments",
+        "option_type": "select",
+        "required": true,
+        "option_values": [
+          "treatment1",
+          "treatment2",
+          "treatment3"
+        ],
+      },
+      {
+        "option_name": "Locations",
+        "option_type": "select",
+        "required": true,
+        "option_values": [
+          "loc1",
+          "loc2",
+          "loc3"
+        ],
+      },
+    ]
+	} //end NEA
+]
+
+// Listing
+[
+  {
+    "_id": "1232123123",
+    "name": "William Chertner",
+    "published_date": "Date",
+    "treatments": [
+      "treat1",
+      "treat2"
+    ],
+    "locations": null,
+    "site_id": "nea" //links to nea
+  }
+]
+
+// Users
+[
+  {
+    "_id": "3134",
+    "name": "kelly",
+    "site_id": "nea"
+  }
+]
+
