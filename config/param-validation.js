@@ -18,6 +18,23 @@ export default {
     }
   },
 
+  // POST /api/sites
+  createSite: {
+    body: {
+      name: Joi.string().required()
+    }
+  },
+
+  // UPDATE /api/sites/:siteId
+  updateSite: {
+    body: {
+      name: Joi.string().required()
+    },
+    params: {
+      siteId: Joi.string().hex().required()
+    }
+  },
+
   // POST /api/auth/login
   login: {
     body: {
