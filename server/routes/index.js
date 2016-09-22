@@ -17,6 +17,6 @@ router.use('/users', userRoutes);
 router.use('/auth', authRoutes);
 
 // mount site routes at /sites
-router.use('/sites', siteRoutes)
+router.use('/sites', siteRoutes);
 
 export default router;

@@ -71,8 +71,8 @@ SiteSchema.method({
 SiteSchema.statics = {
   /**
    * Get site
-   * @param {ObjectId} id - The objectId of user.
-   * @returns {Promise<User, APIError>}
+   * @param {ObjectId} id - The objectId of site.
+   * @returns {Promise<Site, APIError>}
    */
   get(id) {
     return this.findById(id)

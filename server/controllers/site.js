@@ -51,7 +51,7 @@ function update(req, res, next) {
  * Get site list.
  * @property {number} req.query.skip - Number of sites to be skipped.
  * @property {number} req.query.limit - Limit number of sites to be returned.
- * @returns {User[]}
+ * @returns {Site[]}
  */
 function list(req, res, next) {
   const { limit = 50, skip = 0 } = req.query;

@@ -12,7 +12,7 @@ router.route('/')
   /** POST /api/sites - Create new site */
   .post(validate(paramValidation.createSite), siteCtrl.create);
 
-router.route('/:userId')
+router.route('/:siteId')
   /** GET /api/sites/:siteId - Get site */
   .get(siteCtrl.get)
 
