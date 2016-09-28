@@ -24,8 +24,8 @@ This is the beginning of the HCPD.
 
 Clone the repo:
 ```sh
-git clone git@github.com:KunalKapadia/express-mongoose-es6-rest-api.git
-cd express-mongoose-es6-rest-api
+git clone https://github.com/HealthAP/hcpd.git
+cd hcpd
 ```
 
 Install dependencies:
@@ -35,12 +35,11 @@ npm install
 
 Start server:
 ```sh
-# set DEBUG env variable to get debug logs
-DEBUG=express-mongoose-es6-rest-api:* npm start
-# OR
 # requires gulp to be installed globally
 npm i -g gulp
 gulp serve
+# or 
+npm start
 ```
 
 Execute tests:
