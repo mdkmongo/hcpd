@@ -1,0 +1,5 @@
+{
+	"undefined": "localhost/hcpd-test",
+	"dev": "localhost/hcpd-test",
+	"prod": "localhost/PROD_DB_NAME"
+}

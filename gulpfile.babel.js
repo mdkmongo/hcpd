@@ -4,6 +4,7 @@ import path from 'path';
 import del from 'del';
 import runSequence from 'run-sequence';
 import babelCompiler from 'babel-core/register';
+import shell from 'gulp-shell';
 import * as isparta from 'isparta';
 
 const plugins = gulpLoadPlugins();
@@ -94,6 +95,8 @@ gulp.task('pre-test', () =>
     // Force `require` to return covered files
     .pipe(plugins.istanbul.hookRequire())
 );
+
+gulp.task('seed', shell.task('seed'));
 
 // triggers mocha test with code coverage
 gulp.task('test', ['pre-test', 'set-env'], () => {

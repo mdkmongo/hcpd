@@ -27,7 +27,10 @@ function get(req, res) {
 function create(req, res, next) {
   const user = new User({
     username: req.body.username,
-    mobileNumber: req.body.mobileNumber
+    site_name: req.body.siteId,
+    password: req.body.password,
+    is_admin: req.body.isAdmin,
+    mobile_number: req.body.mobileNumber
   });
 
   user.saveAsync()
@@ -43,8 +46,12 @@ function create(req, res, next) {
  */
 function update(req, res, next) {
   const user = req.user;
+
   user.username = req.body.username;
-  user.mobileNumber = req.body.mobileNumber;
+  user.site_name = req.body.siteId;
+  user.password = req.body.password;
+  user.is_admin = req.body.isAdmin;
+  user.mobile_number = req.body.mobileNumber;
 
   user.saveAsync()
     .then((savedUser) => res.json(savedUser))

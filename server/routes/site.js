@@ -22,7 +22,7 @@ router.route('/:siteId')
   /** DELETE /api/sites/:siteId - Delete site */
   .delete(siteCtrl.remove);
 
-/** Load user when API with siteId route parameter is hit */
+/** Load site when API with siteId route parameter is hit */
 router.param('siteId', siteCtrl.load);
 
 export default router;

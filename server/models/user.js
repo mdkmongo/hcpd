@@ -2,6 +2,9 @@ import Promise from 'bluebird';
 import mongoose from 'mongoose';
 import httpStatus from 'http-status';
 import APIError from '../helpers/APIError';
+import bcrypt from 'bcrypt';
+const SALT_WORK_FACTOR = 10;
+
 
 /**
  * User Schema
@@ -9,21 +12,25 @@ import APIError from '../helpers/APIError';
 const UserSchema = new mongoose.Schema({
   username: {
     type: String,
+    required: true,
+    index: {
+      unique: true
+    }
+  },
+  password: {
+    type: String,
     required: true
   },
-  admin: {
+  site_name: {
+    type: String
+  },
+  is_admin: {
     type: Boolean,
-    required: false,
     default: false
   },
-  mobileNumber: {
+  mobile_number: {
     type: String,
-    required: false,
     match: [/^[1-9][0-9]{9}$/, 'The value of path {PATH} ({VALUE}) is not a valid mobile number.']
-  },
-  createdAt: {
-    type: Date,
-    default: Date.now
   }
 });
 
@@ -34,11 +41,39 @@ const UserSchema = new mongoose.Schema({
  * - virtuals
  */
 
+UserSchema.pre('save', function (next) { // eslint-disable-line func-names
+  // NOTE: Middleware not invoked on update() operations
+  const user = this;
+
+  // only hash the password if it has been modified (or is new)
+  if (!user.isModified('password')) return next();
+
+  // generate a salt
+  bcrypt.genSalt(SALT_WORK_FACTOR, (err, salt) => {
+    if (err) return next(err);
+
+    // hash the password along with our new salt
+    bcrypt.hash(user.password, salt, (err, hash) => { // eslint-disable-line no-shadow
+      if (err) return next(err);
+
+      // override the cleartext password with the hashed one
+      user.password = hash;
+      next();
+    });
+  });
+});
+
 /**
  * Methods
  */
-UserSchema.method({
-});
+UserSchema.methods = {
+  comparePassword(candidatePassword, cb) {
+    bcrypt.compare(candidatePassword, this.password, (err, isMatch) => {
+      if (err) return cb(err);
+      return cb(null, isMatch);
+    });
+  }
+};
 
 /**
  * Statics

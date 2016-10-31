@@ -25,9 +25,11 @@ function get(req, res) {
  */
 function create(req, res, next) {
   const site = new Site({
-    name: req.body.name
+    name: req.body.name,
+    site_id: req.body.site_id,
+    listing_options: req.body.listingOptions,
+    listings: req.body.listings
   });
-
   site.saveAsync()
     .then((savedSite) => res.json(savedSite))
     .error((e) => next(e));
@@ -41,6 +43,8 @@ function create(req, res, next) {
 function update(req, res, next) {
   const site = req.site;
   site.name = req.body.name;
+  site.listing_options = req.body.listingOptions;
+  site.listings = req.body.listings;
 
   site.saveAsync()
     .then((savedSite) => res.json(savedSite))

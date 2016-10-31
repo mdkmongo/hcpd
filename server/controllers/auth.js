@@ -1,14 +1,9 @@
 import jwt from 'jsonwebtoken';
-import httpStatus from 'http-status';
+import User from '../models/user';
 import APIError from '../helpers/APIError';
+import httpStatus from 'http-status';
 
 const config = require('../../config/env');
-
-// sample user, used for authentication
-const user = {
-  username: 'react',
-  password: 'express'
-};
 
 /**
  * Returns jwt token if valid username and password is provided
@@ -17,21 +12,51 @@ const user = {
  * @param next
  * @returns {*}
  */
-function login(req, res, next) {
-  // Ideally you'll fetch this from the db
-  // Idea here was to show how jwt works with simplicity
-  if (req.body.username === user.username && req.body.password === user.password) {
-    const token = jwt.sign({
-      username: user.username
-    }, config.jwtSecret);
-    return res.json({
-      token,
-      username: user.username
-    });
-  }
+function login(req, res) {
+  const token = jwt.sign({
+    username: req.body.user.username
+  }, config.jwtSecret);
+  return res.json({
+    token,
+    username: req.body.user.username
+  });
+}
 
-  const err = new APIError('Authentication error', httpStatus.UNAUTHORIZED);
-  return next(err);
+/**
+ * Validates if a user exists with a given Id
+ * @param req
+ * @param res
+ * @param next
+ * @returns {*}
+ */
+function checkUser(req, res, next) {
+  return User.findById(req.body._id).then((found) => {
+    if (found) {
+      req.body.candidatePass = req.body.password; // eslint-disable-line no-param-reassign
+      req.body.user = found; // eslint-disable-line no-param-reassign
+      return next();
+    }
+    const err = new APIError('Authentication error', httpStatus.UNAUTHORIZED, true);
+    return next(err);
+  });
+}
+
+/**
+ * Compares candidate password with hashed password
+ * @param req
+ * @param res
+ * @param next
+ * @returns {*}
+ */
+function checkPass(req, res, next) {
+  const user = req.body.user;
+  user.comparePassword(req.body.candidatePass, (errs, match) => {
+    if (match) {
+      return next();
+    }
+    const err = new APIError('Authentication error', httpStatus.UNAUTHORIZED);
+    return next(err);
+  });
 }
 
 /**
@@ -48,4 +73,4 @@ function getRandomNumber(req, res) {
   });
 }
 
-export default { login, getRandomNumber };
+export default { login, getRandomNumber, checkUser, checkPass };

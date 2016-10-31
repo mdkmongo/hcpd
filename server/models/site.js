@@ -11,45 +11,29 @@ const SiteSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  themeOptions: [{
-    font: {
-      type: String
-    },
-    color: {
-      type: String
-    },
-    bodyColor: {
-      type: String
-    },
-    featuredListingImage: {
-      type: String
-    },
-    header: {
-      type: String
+  site_id: {
+    type: String
+  },
+  listing_options: [
+    {
+      label: {
+        type: String,
+        required: true
+      },
+      field_type: {
+        type: String,
+        required: true,
+        enum: ['textarea', 'text', 'select', 'checkbox', 'bullet']
+      },
+      field_values: {
+        type: Array
+      }
     }
-  }],
-  listingOptions: [{
-    optionName: {
-      type: String,
-      required: true
-    },
-    optionType: {
-      type: String,
-      required: true,
-      enum: ['checkbox', 'text', 'select', 'textarea']
-    },
-    optionValues: {
-      type: Array
-    },
-    createdAt: {
-      type: Date,
-      default: Date.now
-    }
-  }],
-  createdAt: {
-    type: Date,
-    default: Date.now
+  ],
+  listings: {
+    type: Array
   }
+
 });
 
 /**
@@ -62,8 +46,8 @@ const SiteSchema = new mongoose.Schema({
 /**
 * Methods
 */
-SiteSchema.method({
-});
+SiteSchema.methods = {
+};
 
 /**
 * Statics
@@ -75,7 +59,7 @@ SiteSchema.statics = {
    * @returns {Promise<Site, APIError>}
    */
   get(id) {
-    return this.findById(id)
+    return this.findOne({ site_id: id })
       .execAsync().then((site) => {
         if (site) {
           return site;
@@ -87,9 +71,9 @@ SiteSchema.statics = {
 
   /**
    * List sites in descending order of 'createdAt' timestamp.
-   * @param {number} skip - Number of users to be skipped.
-   * @param {number} limit - Limit number of users to be returned.
-   * @returns {Promise<User[]>}
+   * @param {number} skip - Number of sites to be skipped.
+   * @param {number} limit - Limit number of sites to be returned.
+   * @returns {Promise<Site[]>}
    */
   list({ skip = 0, limit = 50 } = {}) {
     return this.find()
