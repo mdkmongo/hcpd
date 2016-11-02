@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 import httpStatus from 'http-status';
 import APIError from '../helpers/APIError';
 import filterInt from '../helpers/filterInt';
-// import geocoder from 'geocoder';
+import geocoder from 'geocoder';
 
 /**
 * Listing Schema
@@ -19,8 +19,14 @@ const ListingSchema = new mongoose.Schema({
   practice_website: String,
   practice_phone: String,
   zip_code: Number,
-  state: String,
-  city: String,
+  state: {
+    type: String,
+    required: true
+  },
+  city: {
+    type: String,
+    required: true
+  },
   address_1: {
     type: String,
     required: true
@@ -42,18 +48,24 @@ const ListingSchema = new mongoose.Schema({
 * - validations
 * - virtuals
 */
-// ListingSchema.pre('save', (next) => {
-
-//   const listing = this;
-
-//   goecoder.geocode(this.address_1, (err,data) => {
-//     if (err) {
-//       console.log(err)
-//       return
-//     }
-//     console.log(data)
-//   })
-// })
+ListingSchema.pre('save', function (next) { // eslint-disable-line func-names
+  const listing = this;
+  geocoder.geocode(`${listing.address_1},${listing.city},${listing.state}`, (err, data) => {
+    if (err) {
+      const message = 'There was an error searching for location, check the location';
+      const aperr = new APIError(message, httpStatus.NOT_FOUND);
+      return Promise.reject(aperr);
+    }
+    if (data.results.length > 0) {
+      const { lat, long } = data.results[0].geometry.location;
+      listing.lat = lat;
+      listing.long = long;
+      return next();
+    }
+    const errs = new APIError('No such location exists, check your entry!', httpStatus.NOT_FOUND);
+    return Promise.reject(errs);
+  });
+});
 
 
 /**
