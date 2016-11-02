@@ -25,7 +25,8 @@
     "first_name": "Nancy",
     "lat": "45.5288249",
     "long": "-122.6787894",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -53,7 +54,8 @@
     "first_name": "Morales",
     "lat": "34.8662",
     "long": "-111.76359",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": true
   },
   {
     "payment_methods": [
@@ -81,7 +83,8 @@
     "first_name": "Jacqueline",
     "lat": "34.23864889",
     "long": "-110.0616819",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -109,7 +112,8 @@
     "first_name": "Stone",
     "lat": "31.55462735",
     "long": "-110.2759156",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -137,7 +141,8 @@
     "first_name": "Harrell",
     "lat": "31.551",
     "long": "-110.1411",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -165,7 +170,8 @@
     "first_name": "Crosby",
     "lat": "33.656757",
     "long": "-112.351061",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": true
   },
   {
     "payment_methods": [
@@ -193,7 +199,8 @@
     "first_name": "Underwood",
     "lat": "33.63787912",
     "long": "-112.2760361",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -221,7 +228,8 @@
     "first_name": "Ivy",
     "lat": "33.63889681",
     "long": "-112.425426",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -249,7 +257,8 @@
     "first_name": "Sellers",
     "lat": "33.63349072",
     "long": "-112.3436755",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -277,7 +286,8 @@
     "first_name": "Garza",
     "lat": "33.60932",
     "long": "-112.35792",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -305,7 +315,8 @@
     "first_name": "Reese",
     "lat": "33.63881144",
     "long": "-112.4319625",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": true
   },
   {
     "payment_methods": [
@@ -333,7 +344,8 @@
     "first_name": "Millicent",
     "lat": "33.6388",
     "long": "-112.390409",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -361,7 +373,8 @@
     "first_name": "Carpenter",
     "lat": "33.63864751",
     "long": "-112.3551297",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": true
   },
   {
     "payment_methods": [
@@ -389,7 +402,8 @@
     "first_name": "Esther",
     "lat": "33.36383659",
     "long": "-111.9301883",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -417,7 +431,8 @@
     "first_name": "Stark",
     "lat": "33.41351082",
     "long": "-111.9327098",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -445,7 +460,8 @@
     "first_name": "Roberta",
     "lat": "33.4172",
     "long": "-111.9318",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -473,7 +489,8 @@
     "first_name": "Chandra",
     "lat": "39.00595",
     "long": "-94.6384437",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -501,7 +518,8 @@
     "first_name": "Lucille",
     "lat": "33.42189146",
     "long": "-111.9343286",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -529,7 +547,8 @@
     "first_name": "Cheri",
     "lat": "33.407737",
     "long": "-111.925518",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -557,7 +576,8 @@
     "first_name": "Cherry",
     "lat": "33.34918409",
     "long": "-111.9140702",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -585,7 +605,8 @@
     "first_name": "Obrien",
     "lat": "33.42184023",
     "long": "-111.9512811",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -613,7 +634,8 @@
     "first_name": "Williams",
     "lat": "33.4412004",
     "long": "-111.9552563",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -641,7 +663,8 @@
     "first_name": "Hahn",
     "lat": "33.36380411",
     "long": "-111.9105527",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -669,7 +692,8 @@
     "first_name": "Darlene",
     "lat": "33.450393",
     "long": "-111.926499",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -697,7 +721,8 @@
     "first_name": "Shepherd",
     "lat": "33.38474206",
     "long": "-111.9670042",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -725,7 +750,8 @@
     "first_name": "Lenore",
     "lat": "33.34907823",
     "long": "-111.9648527",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -753,7 +779,8 @@
     "first_name": "Eileen",
     "lat": "33.39388768",
     "long": "-111.9090705",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -781,7 +808,8 @@
     "first_name": "Norma",
     "lat": "33.42616374",
     "long": "-111.9400045",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -809,7 +837,8 @@
     "first_name": "Bernard",
     "lat": "33.37850268",
     "long": "-111.9286663",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -837,7 +866,8 @@
     "first_name": "Winnie",
     "lat": "33.41015719",
     "long": "-112.2723273",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -865,7 +895,8 @@
     "first_name": "Leann",
     "lat": "32.23940075",
     "long": "-111.0061229",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -893,7 +924,8 @@
     "first_name": "Brittney",
     "lat": "32.29932614",
     "long": "-110.9952047",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -921,7 +953,8 @@
     "first_name": "Caitlin",
     "lat": "32.30506674",
     "long": "-111.0119935",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -949,7 +982,8 @@
     "first_name": "Booker",
     "lat": "32.182236",
     "long": "-110.8767",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -977,7 +1011,8 @@
     "first_name": "Vonda",
     "lat": "32.221264",
     "long": "-110.9432",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1005,7 +1040,8 @@
     "first_name": "George",
     "lat": "32.2578",
     "long": "-110.7974",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1033,7 +1069,8 @@
     "first_name": "Mcbride",
     "lat": "32.220764",
     "long": "-110.805565",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1061,7 +1098,8 @@
     "first_name": "Stevens",
     "lat": "32.1339",
     "long": "-111.00871",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1089,7 +1127,8 @@
     "first_name": "Valdez",
     "lat": "32.33538253",
     "long": "-110.9774191",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1117,7 +1156,8 @@
     "first_name": "Audra",
     "lat": "32.119",
     "long": "-110.799695",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1145,7 +1185,8 @@
     "first_name": "Stephenson",
     "lat": "32.30839304",
     "long": "-110.8913519",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1173,7 +1214,8 @@
     "first_name": "Rosalyn",
     "lat": "32.20708767",
     "long": "-111.0399153",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1201,7 +1243,8 @@
     "first_name": "Lee",
     "lat": "45.571272",
     "long": "-122.5557087",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1229,7 +1272,8 @@
     "first_name": "Cherry",
     "lat": "32.22158475",
     "long": "-110.9137549",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1257,7 +1301,8 @@
     "first_name": "Rosalie",
     "lat": "32.3374794",
     "long": "-111.0490882",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1285,7 +1330,8 @@
     "first_name": "Rowena",
     "lat": "32.221421",
     "long": "-110.944887",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1313,7 +1359,8 @@
     "first_name": "Gay",
     "lat": "32.2217",
     "long": "-110.919687",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1341,7 +1388,8 @@
     "first_name": "Angel",
     "lat": "32.22095979",
     "long": "-110.8371748",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1369,7 +1417,8 @@
     "first_name": "Wolfe",
     "lat": "32.3301",
     "long": "-111.1571",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1397,7 +1446,8 @@
     "first_name": "Goldie",
     "lat": "32.33618072",
     "long": "-110.9776652",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1425,7 +1475,8 @@
     "first_name": "Foley",
     "lat": "32.16325493",
     "long": "-110.9912844",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": true
   },
   {
     "payment_methods": [
@@ -1453,7 +1504,8 @@
     "first_name": "Spears",
     "lat": "32.23603401",
     "long": "-110.8584782",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1481,7 +1533,8 @@
     "first_name": "Ella",
     "lat": "32.2075692",
     "long": "-110.7891449",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1509,7 +1562,8 @@
     "first_name": "Graciela",
     "lat": "32.20636026",
     "long": "-110.8434517",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1537,7 +1591,8 @@
     "first_name": "Cecelia",
     "lat": "32.22008894",
     "long": "-110.7726841",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1565,7 +1620,8 @@
     "first_name": "Lisa",
     "lat": "32.25070669",
     "long": "-110.8903829",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1593,7 +1649,8 @@
     "first_name": "Lela",
     "lat": "32.2866",
     "long": "-110.9654",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1621,7 +1678,8 @@
     "first_name": "Pearlie",
     "lat": "32.33518446",
     "long": "-111.0130385",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1649,7 +1707,8 @@
     "first_name": "Washington",
     "lat": "32.22149254",
     "long": "-110.8663807",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1677,7 +1736,8 @@
     "first_name": "Maura",
     "lat": "32.28723994",
     "long": "-110.9448869",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1705,7 +1765,8 @@
     "first_name": "Alyce",
     "lat": "32.29661113",
     "long": "-110.9726828",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1733,7 +1794,8 @@
     "first_name": "Amanda",
     "lat": "32.32203293",
     "long": "-110.9293345",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1761,7 +1823,8 @@
     "first_name": "Claudine",
     "lat": "32.2362",
     "long": "-110.9276",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1789,7 +1852,8 @@
     "first_name": "Mariana",
     "lat": "32.30835655",
     "long": "-110.8924853",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1817,7 +1881,8 @@
     "first_name": "Betsy",
     "lat": "32.23218991",
     "long": "-110.9440335",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1845,7 +1910,8 @@
     "first_name": "Gutierrez",
     "lat": "32.261646",
     "long": "-109.84124",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1873,7 +1939,8 @@
     "first_name": "Rojas",
     "lat": "33.962063",
     "long": "-112.76857",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1901,7 +1968,8 @@
     "first_name": "Weeks",
     "lat": "35.2485",
     "long": "-112.1942",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1929,7 +1997,8 @@
     "first_name": "Meredith",
     "lat": "32.68396897",
     "long": "-114.6484345",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1957,7 +2026,8 @@
     "first_name": "Burnett",
     "lat": "32.70183",
     "long": "-114.60354",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -1985,7 +2055,8 @@
     "first_name": "Webster",
     "lat": "32.701324",
     "long": "-114.6034",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2013,7 +2084,8 @@
     "first_name": "Tisha",
     "lat": "32.6839",
     "long": "-114.648861",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2041,7 +2113,8 @@
     "first_name": "Millie",
     "lat": "34.079",
     "long": "-118.114954",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2069,7 +2142,8 @@
     "first_name": "Ross",
     "lat": "34.6267",
     "long": "-117.4283",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2097,7 +2171,8 @@
     "first_name": "Melody",
     "lat": "34.15343545",
     "long": "-118.7573187",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2125,7 +2200,8 @@
     "first_name": "Michele",
     "lat": "34.1606",
     "long": "-118.757134",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2153,7 +2229,8 @@
     "first_name": "Nora",
     "lat": "37.788222",
     "long": "-122.277604",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2181,7 +2258,8 @@
     "first_name": "Jeannette",
     "lat": "37.757099",
     "long": "-122.253388",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2209,7 +2287,8 @@
     "first_name": "English",
     "lat": "37.76807",
     "long": "-122.233245",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2237,7 +2316,8 @@
     "first_name": "Bryan",
     "lat": "37.76369586",
     "long": "-122.2432424",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2265,7 +2345,8 @@
     "first_name": "Christy",
     "lat": "37.75665",
     "long": "-122.252229",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2293,7 +2374,8 @@
     "first_name": "Kirk",
     "lat": "37.77965876",
     "long": "-122.2761122",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2321,7 +2403,8 @@
     "first_name": "Estella",
     "lat": "37.8501398",
     "long": "-122.0337703",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2349,7 +2432,8 @@
     "first_name": "Wendy",
     "lat": "37.8492748",
     "long": "-122.0319981",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2377,7 +2461,8 @@
     "first_name": "Leanna",
     "lat": "37.88531",
     "long": "-122.30793",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2405,7 +2490,8 @@
     "first_name": "Wilkinson",
     "lat": "34.079716",
     "long": "-118.151899",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2433,7 +2519,8 @@
     "first_name": "Church",
     "lat": "34.07855268",
     "long": "-118.1228761",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2461,7 +2548,8 @@
     "first_name": "Paul",
     "lat": "34.09456236",
     "long": "-118.1279698",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2489,7 +2577,8 @@
     "first_name": "Sheri",
     "lat": "33.575604",
     "long": "-117.703145",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2517,7 +2606,8 @@
     "first_name": "Simmons",
     "lat": "38.165844",
     "long": "-122.263695",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2545,7 +2635,8 @@
     "first_name": "Patricia",
     "lat": "38.171",
     "long": "-122.24529",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2573,7 +2664,8 @@
     "first_name": "Stout",
     "lat": "38.165852",
     "long": "-122.26392",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2601,7 +2693,8 @@
     "first_name": "Cochran",
     "lat": "33.79963958",
     "long": "-117.9178582",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2629,7 +2722,8 @@
     "first_name": "England",
     "lat": "33.79959067",
     "long": "-117.9190496",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2657,7 +2751,8 @@
     "first_name": "Potts",
     "lat": "33.836449",
     "long": "-117.914482",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2685,7 +2780,8 @@
     "first_name": "Long",
     "lat": "33.86854485",
     "long": "-117.7519695",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2713,7 +2809,8 @@
     "first_name": "Amparo",
     "lat": "33.85133277",
     "long": "-117.7922813",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2741,7 +2838,8 @@
     "first_name": "Letha",
     "lat": "33.851543",
     "long": "-117.788732",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2769,7 +2867,8 @@
     "first_name": "Sweeney",
     "lat": "33.85987581",
     "long": "-117.791645",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2797,7 +2896,8 @@
     "first_name": "Meagan",
     "lat": "33.86345977",
     "long": "-117.7395659",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2825,7 +2925,8 @@
     "first_name": "Stone",
     "lat": "33.863973",
     "long": "-117.744356",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2853,7 +2954,8 @@
     "first_name": "Gallagher",
     "lat": "33.85501077",
     "long": "-117.8373923",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2881,7 +2983,8 @@
     "first_name": "Small",
     "lat": "33.84116153",
     "long": "-117.941573",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2909,7 +3012,8 @@
     "first_name": "Solomon",
     "lat": "33.81776518",
     "long": "-117.958873",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2937,7 +3041,8 @@
     "first_name": "Fowler",
     "lat": "33.805641",
     "long": "-117.883338",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2965,7 +3070,8 @@
     "first_name": "Ferrell",
     "lat": "33.80158348",
     "long": "-117.8938678",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -2993,7 +3099,8 @@
     "first_name": "Poole",
     "lat": "40.4562",
     "long": "-122.3248",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3021,7 +3128,8 @@
     "first_name": "King",
     "lat": "38.07990289",
     "long": "-120.5551201",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3049,7 +3157,8 @@
     "first_name": "Nancy",
     "lat": "38.71795184",
     "long": "-121.3769968",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3077,7 +3186,8 @@
     "first_name": "Meghan",
     "lat": "37.99698",
     "long": "-121.80573",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3105,7 +3215,8 @@
     "first_name": "Louise",
     "lat": "37.96744918",
     "long": "-121.784687",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3133,7 +3244,8 @@
     "first_name": "Darcy",
     "lat": "37.96796292",
     "long": "-121.7860158",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3161,7 +3273,8 @@
     "first_name": "Rene",
     "lat": "38.003835",
     "long": "-121.805999",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3189,7 +3302,8 @@
     "first_name": "Yvette",
     "lat": "34.47103242",
     "long": "-117.2442133",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3217,7 +3331,8 @@
     "first_name": "Leach",
     "lat": "34.525615",
     "long": "-117.21929",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3245,7 +3360,8 @@
     "first_name": "Best",
     "lat": "36.97870222",
     "long": "-121.9075112",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3273,7 +3389,8 @@
     "first_name": "Sharp",
     "lat": "36.9765",
     "long": "-121.9004",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3301,7 +3418,8 @@
     "first_name": "Lorena",
     "lat": "34.10843817",
     "long": "-118.0231553",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3329,7 +3447,8 @@
     "first_name": "Hyde",
     "lat": "34.12226744",
     "long": "-118.0679847",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3357,7 +3476,8 @@
     "first_name": "Logan",
     "lat": "34.14013025",
     "long": "-118.0233603",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3385,7 +3505,8 @@
     "first_name": "Marianne",
     "lat": "34.12393407",
     "long": "-118.055758",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3413,7 +3534,8 @@
     "first_name": "Lang",
     "lat": "35.12077807",
     "long": "-120.6056362",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3441,7 +3563,8 @@
     "first_name": "Young",
     "lat": "35.12425004",
     "long": "-120.5916373",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3469,7 +3592,8 @@
     "first_name": "Erin",
     "lat": "33.87311766",
     "long": "-118.0820999",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3497,7 +3621,8 @@
     "first_name": "Woodard",
     "lat": "35.47423353",
     "long": "-120.6652638",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3525,7 +3650,8 @@
     "first_name": "Howell",
     "lat": "35.526337",
     "long": "-120.70302",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3553,7 +3679,8 @@
     "first_name": "Polly",
     "lat": "35.48474519",
     "long": "-120.6628732",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3581,7 +3708,8 @@
     "first_name": "Abbott",
     "lat": "37.3604",
     "long": "-120.613518",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3609,7 +3737,8 @@
     "first_name": "Eliza",
     "lat": "38.877266",
     "long": "-121.080564",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3637,7 +3766,8 @@
     "first_name": "Traci",
     "lat": "38.94250878",
     "long": "-121.0921941",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3665,7 +3795,8 @@
     "first_name": "Pearl",
     "lat": "39.0425",
     "long": "-121.094254",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3693,7 +3824,8 @@
     "first_name": "Dale",
     "lat": "38.90395451",
     "long": "-121.0761474",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3721,7 +3853,8 @@
     "first_name": "Campos",
     "lat": "38.92081529",
     "long": "-121.0581499",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3749,7 +3882,8 @@
     "first_name": "Ferguson",
     "lat": "34.12870314",
     "long": "-117.8836472",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3777,7 +3911,8 @@
     "first_name": "Atkins",
     "lat": "34.1334",
     "long": "-117.9078",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3805,7 +3940,8 @@
     "first_name": "Donovan",
     "lat": "35.4106",
     "long": "-116.061104",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3833,7 +3969,8 @@
     "first_name": "Jami",
     "lat": "35.2959",
     "long": "-119.04093",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3861,7 +3998,8 @@
     "first_name": "Reyna",
     "lat": "35.3182581",
     "long": "-119.0932902",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3889,7 +4027,8 @@
     "first_name": "Bush",
     "lat": "35.38337",
     "long": "-119.14679",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3917,7 +4056,8 @@
     "first_name": "Solis",
     "lat": "35.36857392",
     "long": "-119.0187784",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3945,7 +4085,8 @@
     "first_name": "Copeland",
     "lat": "35.339935",
     "long": "-119.102264",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -3973,7 +4114,8 @@
     "first_name": "Patrica",
     "lat": "35.3544",
     "long": "-119.0664",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4001,7 +4143,8 @@
     "first_name": "Arline",
     "lat": "35.41244764",
     "long": "-119.0582569",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4029,7 +4172,8 @@
     "first_name": "Higgins",
     "lat": "35.38118245",
     "long": "-119.0152813",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4057,7 +4201,8 @@
     "first_name": "Geraldine",
     "lat": "35.310587",
     "long": "-119.092299",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4085,7 +4230,8 @@
     "first_name": "Tanya",
     "lat": "35.3936373",
     "long": "-118.967388",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4113,7 +4259,8 @@
     "first_name": "Iris",
     "lat": "35.38347739",
     "long": "-119.1044016",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4141,7 +4288,8 @@
     "first_name": "Dale",
     "lat": "35.3977",
     "long": "-118.949699",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4169,7 +4317,8 @@
     "first_name": "Bonner",
     "lat": "35.317927",
     "long": "-119.054597",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4197,7 +4346,8 @@
     "first_name": "Hurst",
     "lat": "35.33993",
     "long": "-119.10229",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4225,7 +4375,8 @@
     "first_name": "Julianne",
     "lat": "35.399772",
     "long": "-119.092099",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4253,7 +4404,8 @@
     "first_name": "Zimmerman",
     "lat": "35.35443543",
     "long": "-119.093446",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4281,7 +4433,8 @@
     "first_name": "Katheryn",
     "lat": "35.33932363",
     "long": "-119.0318787",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4309,7 +4462,8 @@
     "first_name": "Melinda",
     "lat": "35.2959",
     "long": "-119.02633",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4337,7 +4491,8 @@
     "first_name": "Robbie",
     "lat": "35.35581513",
     "long": "-119.0611119",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4365,7 +4520,8 @@
     "first_name": "Cristina",
     "lat": "34.070196",
     "long": "-117.97919",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4393,7 +4549,8 @@
     "first_name": "Lane",
     "lat": "34.06453371",
     "long": "-117.9678991",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4421,7 +4578,8 @@
     "first_name": "Henry",
     "lat": "34.072124",
     "long": "-117.959361",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4449,7 +4607,8 @@
     "first_name": "Langley",
     "lat": "33.922893",
     "long": "-116.9467",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4477,7 +4636,8 @@
     "first_name": "Harvey",
     "lat": "33.925572",
     "long": "-116.901641",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4505,7 +4665,8 @@
     "first_name": "Gallegos",
     "lat": "34.84932",
     "long": "-117.082899",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4533,7 +4694,8 @@
     "first_name": "Sasha",
     "lat": "34.89386",
     "long": "-117.00329",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4561,7 +4723,8 @@
     "first_name": "Beverley",
     "lat": "34.8679",
     "long": "-117.1152",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4589,7 +4752,8 @@
     "first_name": "Miles",
     "lat": "33.9472901",
     "long": "-116.9771802",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4617,7 +4781,8 @@
     "first_name": "Pamela",
     "lat": "33.96915012",
     "long": "-118.1644993",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4645,7 +4810,8 @@
     "first_name": "Essie",
     "lat": "33.97110355",
     "long": "-118.1879268",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4673,7 +4839,8 @@
     "first_name": "Owens",
     "lat": "33.87566874",
     "long": "-118.1425471",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4701,7 +4868,8 @@
     "first_name": "Lindsay",
     "lat": "37.51969635",
     "long": "-122.2753141",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4729,7 +4897,8 @@
     "first_name": "Teresa",
     "lat": "37.51063756",
     "long": "-122.2937616",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4757,7 +4926,8 @@
     "first_name": "Dorthy",
     "lat": "37.52001067",
     "long": "-122.2756712",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4785,7 +4955,8 @@
     "first_name": "Tamara",
     "lat": "38.054404",
     "long": "-122.155398",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4813,7 +4984,8 @@
     "first_name": "Irene",
     "lat": "38.047013",
     "long": "-122.160614",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4841,7 +5013,8 @@
     "first_name": "Tracey",
     "lat": "38.06639141",
     "long": "-122.1643115",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4869,7 +5042,8 @@
     "first_name": "Lindsey",
     "lat": "37.86893429",
     "long": "-122.2678041",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4897,7 +5071,8 @@
     "first_name": "Rae",
     "lat": "37.89132957",
     "long": "-122.2798893",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4925,7 +5100,8 @@
     "first_name": "Abigail",
     "lat": "37.87041074",
     "long": "-122.2658093",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4953,7 +5129,8 @@
     "first_name": "Tanisha",
     "lat": "37.87830521",
     "long": "-122.2691698",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -4981,7 +5158,8 @@
     "first_name": "Cathryn",
     "lat": "34.07037888",
     "long": "-118.4024714",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5009,7 +5187,8 @@
     "first_name": "Forbes",
     "lat": "34.06375507",
     "long": "-118.3762488",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5037,7 +5216,8 @@
     "first_name": "Dionne",
     "lat": "34.066963",
     "long": "-118.409348",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5065,7 +5245,8 @@
     "first_name": "Holmes",
     "lat": "34.05926463",
     "long": "-118.3890518",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5093,7 +5274,8 @@
     "first_name": "Edna",
     "lat": "34.06488753",
     "long": "-118.3990671",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5121,7 +5303,8 @@
     "first_name": "Rachel",
     "lat": "34.2500314",
     "long": "-116.8834427",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5149,7 +5332,8 @@
     "first_name": "Miller",
     "lat": "34.247523",
     "long": "-116.8827",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5177,7 +5361,8 @@
     "first_name": "Bethany",
     "lat": "34.2411431",
     "long": "-116.9166325",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5205,7 +5390,8 @@
     "first_name": "Antoinette",
     "lat": "37.37398916",
     "long": "-118.3957168",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5233,7 +5419,8 @@
     "first_name": "Marla",
     "lat": "37.370454",
     "long": "-118.395399",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5261,7 +5448,8 @@
     "first_name": "Guzman",
     "lat": "34.24696465",
     "long": "-117.2086963",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5289,7 +5477,8 @@
     "first_name": "Betty",
     "lat": "33.6106",
     "long": "-114.58",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5317,7 +5506,8 @@
     "first_name": "Lora",
     "lat": "33.61027149",
     "long": "-114.6049189",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5345,7 +5535,8 @@
     "first_name": "Angelia",
     "lat": "32.66077",
     "long": "-117.032743",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5373,7 +5564,8 @@
     "first_name": "Mary",
     "lat": "32.66938728",
     "long": "-117.0228185",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5401,7 +5593,8 @@
     "first_name": "Little",
     "lat": "33.91097754",
     "long": "-117.8655885",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5429,7 +5622,8 @@
     "first_name": "Booth",
     "lat": "33.90938938",
     "long": "-117.8524553",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5457,7 +5651,8 @@
     "first_name": "Miriam",
     "lat": "33.91886285",
     "long": "-117.9007584",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5485,7 +5680,8 @@
     "first_name": "Gloria",
     "lat": "33.91651656",
     "long": "-117.9003852",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5513,7 +5709,8 @@
     "first_name": "Elba",
     "lat": "33.91284579",
     "long": "-117.8794047",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5541,7 +5738,8 @@
     "first_name": "Kane",
     "lat": "37.943817",
     "long": "-121.696199",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5569,7 +5767,8 @@
     "first_name": "June",
     "lat": "37.92551329",
     "long": "-121.6905298",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5597,7 +5796,8 @@
     "first_name": "Klein",
     "lat": "37.92537327",
     "long": "-121.7285603",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5625,7 +5825,8 @@
     "first_name": "Sims",
     "lat": "34.04849301",
     "long": "-118.4907091",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5653,7 +5854,8 @@
     "first_name": "Melinda",
     "lat": "37.94716841",
     "long": "-121.7397755",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5681,7 +5883,8 @@
     "first_name": "Hardin",
     "lat": "33.858864",
     "long": "-118.002174",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5709,7 +5912,8 @@
     "first_name": "Lorraine",
     "lat": "33.8318",
     "long": "-118.030457",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5737,7 +5941,8 @@
     "first_name": "Erickson",
     "lat": "33.84682485",
     "long": "-117.9902885",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5765,7 +5970,8 @@
     "first_name": "Rosa",
     "lat": "33.85122007",
     "long": "-117.9979246",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5793,7 +5999,8 @@
     "first_name": "Carter",
     "lat": "34.16055473",
     "long": "-118.3450331",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5821,7 +6028,8 @@
     "first_name": "Jackie",
     "lat": "34.1564",
     "long": "-118.327065",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5849,7 +6057,8 @@
     "first_name": "Alyssa",
     "lat": "34.15246215",
     "long": "-118.3363468",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5877,7 +6086,8 @@
     "first_name": "Wilkerson",
     "lat": "34.18777364",
     "long": "-118.3234391",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5905,7 +6115,8 @@
     "first_name": "Bridges",
     "lat": "34.16288161",
     "long": "-118.3139848",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5933,7 +6144,8 @@
     "first_name": "Farley",
     "lat": "34.15495176",
     "long": "-118.345472",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5961,7 +6173,8 @@
     "first_name": "Ola",
     "lat": "34.15003743",
     "long": "-118.3408001",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -5989,7 +6202,8 @@
     "first_name": "Cortez",
     "lat": "34.18747712",
     "long": "-118.3177824",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6017,7 +6231,8 @@
     "first_name": "Mcfarland",
     "lat": "34.15403651",
     "long": "-118.3405133",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6045,7 +6260,8 @@
     "first_name": "Whitney",
     "lat": "34.15553624",
     "long": "-118.345749",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6073,7 +6289,8 @@
     "first_name": "Griffin",
     "lat": "34.17420024",
     "long": "-118.3000628",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6101,7 +6318,8 @@
     "first_name": "Mercado",
     "lat": "34.18233246",
     "long": "-118.3106991",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6129,7 +6347,8 @@
     "first_name": "Marks",
     "lat": "34.16257766",
     "long": "-118.3148591",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6157,7 +6376,8 @@
     "first_name": "Hilda",
     "lat": "34.15239159",
     "long": "-118.3453539",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6185,7 +6405,8 @@
     "first_name": "Shana",
     "lat": "34.18423972",
     "long": "-118.3217456",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6213,7 +6434,8 @@
     "first_name": "English",
     "lat": "37.58595044",
     "long": "-122.3648607",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6241,7 +6463,8 @@
     "first_name": "Jasmine",
     "lat": "37.59601814",
     "long": "-122.3852557",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6269,7 +6492,8 @@
     "first_name": "Carroll",
     "lat": "37.5792671",
     "long": "-122.3459957",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6297,7 +6521,8 @@
     "first_name": "Jessie",
     "lat": "35.40986154",
     "long": "-119.4117631",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6325,7 +6550,8 @@
     "first_name": "Clements",
     "lat": "37.88994481",
     "long": "-121.640581",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6353,7 +6579,8 @@
     "first_name": "Mayo",
     "lat": "33.926375",
     "long": "-116.813329",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6381,7 +6608,8 @@
     "first_name": "Patel",
     "lat": "34.14383311",
     "long": "-118.6993963",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6409,7 +6637,8 @@
     "first_name": "Daisy",
     "lat": "34.144036",
     "long": "-118.699539",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6437,7 +6666,8 @@
     "first_name": "Antonia",
     "lat": "34.156932",
     "long": "-118.640252",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6465,7 +6695,8 @@
     "first_name": "Lynne",
     "lat": "32.679",
     "long": "-115.49891",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6493,7 +6724,8 @@
     "first_name": "Armstrong",
     "lat": "34.22839678",
     "long": "-118.9977141",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6521,7 +6753,8 @@
     "first_name": "Ramos",
     "lat": "34.21598291",
     "long": "-119.0733379",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6549,7 +6782,8 @@
     "first_name": "Warner",
     "lat": "34.22582",
     "long": "-119.03883",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6577,7 +6811,8 @@
     "first_name": "Nancy",
     "lat": "34.236991",
     "long": "-119.036421",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6605,7 +6840,8 @@
     "first_name": "Glenda",
     "lat": "34.2158",
     "long": "-119.0043",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6633,7 +6869,8 @@
     "first_name": "Celia",
     "lat": "34.22202648",
     "long": "-119.0698058",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6661,7 +6898,8 @@
     "first_name": "Johnston",
     "lat": "38.6581",
     "long": "-120.9699",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6689,7 +6927,8 @@
     "first_name": "Dominique",
     "lat": "38.65812621",
     "long": "-120.9744664",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6717,7 +6956,8 @@
     "first_name": "Reese",
     "lat": "37.280915",
     "long": "-121.948803",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6745,7 +6985,8 @@
     "first_name": "Roth",
     "lat": "37.28701309",
     "long": "-121.9451018",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6773,7 +7014,8 @@
     "first_name": "Jennings",
     "lat": "37.28590706",
     "long": "-121.9822882",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6801,7 +7043,8 @@
     "first_name": "Dianna",
     "lat": "37.29273081",
     "long": "-121.9316187",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6829,7 +7072,8 @@
     "first_name": "Beth",
     "lat": "37.2698527",
     "long": "-121.945774",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6857,7 +7101,8 @@
     "first_name": "Nelda",
     "lat": "37.294299",
     "long": "-121.944177",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6885,7 +7130,8 @@
     "first_name": "Martina",
     "lat": "34.191936",
     "long": "-118.6057",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6913,7 +7159,8 @@
     "first_name": "Rose",
     "lat": "34.20104529",
     "long": "-118.5971781",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6941,7 +7188,8 @@
     "first_name": "Hopper",
     "lat": "34.19045508",
     "long": "-118.6058524",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6969,7 +7217,8 @@
     "first_name": "Jimenez",
     "lat": "34.41609379",
     "long": "-118.4581428",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -6997,7 +7246,8 @@
     "first_name": "Browning",
     "lat": "36.97657803",
     "long": "-121.9648575",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7025,7 +7275,8 @@
     "first_name": "Pearlie",
     "lat": "36.9767",
     "long": "-121.96517",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7053,7 +7304,8 @@
     "first_name": "Hickman",
     "lat": "33.02135209",
     "long": "-117.2826536",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7081,7 +7333,8 @@
     "first_name": "Moon",
     "lat": "33.17850444",
     "long": "-117.3266193",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7109,7 +7362,8 @@
     "first_name": "Michelle",
     "lat": "33.10370349",
     "long": "-117.266784",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7137,7 +7391,8 @@
     "first_name": "Bass",
     "lat": "33.09832",
     "long": "-117.307785",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7165,7 +7420,8 @@
     "first_name": "Dora",
     "lat": "33.12690242",
     "long": "-117.3231156",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7193,7 +7449,8 @@
     "first_name": "Jacobson",
     "lat": "33.08604764",
     "long": "-117.26872",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7221,7 +7478,8 @@
     "first_name": "Elisabeth",
     "lat": "33.131412",
     "long": "-117.259506",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7249,7 +7507,8 @@
     "first_name": "Frye",
     "lat": "33.15895378",
     "long": "-117.3517009",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7277,7 +7536,8 @@
     "first_name": "Mayra",
     "lat": "36.5427",
     "long": "-121.9073",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7305,7 +7565,8 @@
     "first_name": "Misty",
     "lat": "36.5382",
     "long": "-121.9078",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7333,7 +7594,8 @@
     "first_name": "Nadia",
     "lat": "38.64943821",
     "long": "-121.3277238",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7361,7 +7623,8 @@
     "first_name": "Graciela",
     "lat": "38.66071485",
     "long": "-121.3249234",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7389,7 +7652,8 @@
     "first_name": "Serena",
     "lat": "38.63698678",
     "long": "-121.3279834",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7417,7 +7681,8 @@
     "first_name": "Marietta",
     "lat": "34.39791525",
     "long": "-119.5195815",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7445,7 +7710,8 @@
     "first_name": "Vinson",
     "lat": "34.3948536",
     "long": "-119.5136784",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7473,7 +7739,8 @@
     "first_name": "Augusta",
     "lat": "33.83162297",
     "long": "-118.277655",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7501,7 +7768,8 @@
     "first_name": "Gretchen",
     "lat": "33.80797852",
     "long": "-118.2736158",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7529,7 +7797,8 @@
     "first_name": "Anne",
     "lat": "33.843967",
     "long": "-118.263245",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7557,7 +7826,8 @@
     "first_name": "Tracie",
     "lat": "33.871438",
     "long": "-118.271512",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7585,7 +7855,8 @@
     "first_name": "Velazquez",
     "lat": "33.84166464",
     "long": "-118.2627994",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7613,7 +7884,8 @@
     "first_name": "Francine",
     "lat": "33.84194126",
     "long": "-118.2855029",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7641,7 +7913,8 @@
     "first_name": "Mullen",
     "lat": "33.807763",
     "long": "-118.273264",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7669,7 +7942,8 @@
     "first_name": "Celeste",
     "lat": "34.49696349",
     "long": "-118.6228384",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7697,7 +7971,8 @@
     "first_name": "Brandy",
     "lat": "37.69628278",
     "long": "-122.073917",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7725,7 +8000,8 @@
     "first_name": "Maura",
     "lat": "37.69598137",
     "long": "-122.0778835",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7753,7 +8029,8 @@
     "first_name": "Ophelia",
     "lat": "37.69436944",
     "long": "-122.0862027",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7781,7 +8058,8 @@
     "first_name": "Fitzgerald",
     "lat": "37.69292069",
     "long": "-122.057534",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7809,7 +8087,8 @@
     "first_name": "Mcclain",
     "lat": "33.816137",
     "long": "-116.457213",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7837,7 +8116,8 @@
     "first_name": "Kaye",
     "lat": "33.801132",
     "long": "-116.458112",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7865,7 +8145,8 @@
     "first_name": "Aline",
     "lat": "33.78825256",
     "long": "-116.4822647",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7893,7 +8174,8 @@
     "first_name": "Georgette",
     "lat": "33.77876201",
     "long": "-116.461378",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7921,7 +8203,8 @@
     "first_name": "Sandoval",
     "lat": "34.06187677",
     "long": "-118.415017",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7949,7 +8232,8 @@
     "first_name": "Juana",
     "lat": "34.05939741",
     "long": "-118.412804",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -7977,7 +8261,8 @@
     "first_name": "Brewer",
     "lat": "34.05863243",
     "long": "-118.4160278",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8005,7 +8290,8 @@
     "first_name": "Guthrie",
     "lat": "37.61045033",
     "long": "-120.9743162",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8033,7 +8319,8 @@
     "first_name": "Richard",
     "lat": "37.6091321",
     "long": "-120.9387719",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8061,7 +8348,8 @@
     "first_name": "Henrietta",
     "lat": "33.8643134",
     "long": "-118.0930396",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8089,7 +8377,8 @@
     "first_name": "Alexander",
     "lat": "33.8465209",
     "long": "-118.0819769",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8117,7 +8406,8 @@
     "first_name": "Staci",
     "lat": "33.86987332",
     "long": "-118.060899",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8145,7 +8435,8 @@
     "first_name": "Maritza",
     "lat": "33.85851045",
     "long": "-118.0907501",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8173,7 +8464,8 @@
     "first_name": "Madden",
     "lat": "34.25722359",
     "long": "-118.5783951",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8201,7 +8493,8 @@
     "first_name": "Addie",
     "lat": "34.25049646",
     "long": "-118.6060364",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8229,7 +8522,8 @@
     "first_name": "Deena",
     "lat": "34.25722359",
     "long": "-118.5801846",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8257,7 +8551,8 @@
     "first_name": "Holly",
     "lat": "39.7458",
     "long": "-121.8445",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8285,7 +8580,8 @@
     "first_name": "Suzanne",
     "lat": "39.7610754",
     "long": "-121.8214372",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8313,7 +8609,8 @@
     "first_name": "Sheila",
     "lat": "39.7611",
     "long": "-121.820802",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8341,7 +8638,8 @@
     "first_name": "Juanita",
     "lat": "39.73510245",
     "long": "-121.8356523",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8369,7 +8667,8 @@
     "first_name": "Jenny",
     "lat": "39.746505",
     "long": "-121.851681",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   },
   {
     "payment_methods": [
@@ -8397,6 +8696,7 @@
     "first_name": "Bradford",
     "lat": "39.75996891",
     "long": "-121.8434031",
-    "site_id": "57f5390a5fdec70078e5923c"
+    "site_id": "57f5390a5fdec70078e5923c",
+    "featured": false
   }
 ]

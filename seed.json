@@ -1,5 +1,5 @@
 {
 	"undefined": "localhost/hcpd-test",
 	"dev": "localhost/hcpd-test",
-	"prod": "localhost/PROD_DB_NAME"
+	"prod": "mongodb://goat:goat-dev@ds053439.mlab.com:53439/hcpd"
 }
