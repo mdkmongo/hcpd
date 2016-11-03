@@ -34,7 +34,7 @@ const ListingSchema = new mongoose.Schema({
   address_2: String,
   country: String,
   practice_name: String,
-  taking_patients: Boolean,
+  taking_patients: String,
   sex: String,
   email: String,
   designation: String,
