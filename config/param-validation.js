@@ -41,5 +41,16 @@ export default {
       username: Joi.string().required(),
       password: Joi.string().required()
     }
+  },
+
+  // POST /api/listings/
+  createListing: {
+    body: {
+      firstName: Joi.string().required(),
+      lastName: Joi.string().required(),
+      state: Joi.string().required(),
+      city: Joi.string().required(),
+      addressOne: Joi.string().required()
+    }
   }
 };

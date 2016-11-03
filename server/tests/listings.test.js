@@ -31,7 +31,7 @@ describe('## Listing APIs', () => {
         });
     });
   });
-  describe('# Post /api/listings', () => {
+  describe('# POST /api/listings', () => {
     it('should add a listing', (done) => {
       request(app)
         .post('/api/listings')
@@ -39,6 +39,29 @@ describe('## Listing APIs', () => {
         .expect(httpStatus.OK)
         .then(res => {
           expect(res.body.first_name).to.equal(listing.firstName);
+          listing.id = res.body._id;
+          done();
+        });
+    });
+  });
+  describe('# GET /api/listings/:listingId', () => {
+    it('should get a single listing', (done) => {
+      request(app)
+        .get(`/api/listings/${listing.id}`)
+        .expect(httpStatus.OK)
+        .then(res => {
+          expect(res.body.first_name).to.equal(listing.firstName);
+          done();
+        });
+    });
+  });
+  describe('# DELETE /api/listings/:listingId', () => {
+    it('should delete a single listing', (done) => {
+      request(app)
+        .delete(`/api/listings/${listing.id}`)
+        .expect(httpStatus.OK)
+        .then(res => {
+          expect(res.body._id).to.equal(listing.id);
           done();
         });
     });

@@ -40,6 +40,10 @@ const ListingSchema = new mongoose.Schema({
   designation: String,
   lat: Number,
   long: Number,
+  createdAt: {
+    type: Date,
+    default: Date.now
+  }
 });
 
 /**
@@ -57,9 +61,9 @@ ListingSchema.pre('save', function (next) { // eslint-disable-line func-names
       return Promise.reject(aperr);
     }
     if (data.results.length > 0) {
-      const { lat, long } = data.results[0].geometry.location;
+      const { lat, lng } = data.results[0].geometry.location;
       listing.lat = lat;
-      listing.long = long;
+      listing.long = lng;
       return next();
     }
     const errs = new APIError('No such location exists, check your entry!', httpStatus.NOT_FOUND);
@@ -82,20 +86,20 @@ ListingSchema.pre('save', function (next) { // eslint-disable-line func-names
 */
 ListingSchema.statics = {
   /**
-   * Get site
+   * Get listing
    * @param {ObjectId} id - The objectId of listing.
-   * @returns {Promise<Site, APIError>}
+   * @returns {Promise<Listing, APIError>}
    */
-  // get(id) {
-  //   return this.findOne({ _id: id })
-  //     .execAsync().then((site) => {
-  //       if (site) {
-  //         return site;
-  //       }
-  //       const err = new APIError('No such listing exists!', httpStatus.NOT_FOUND);
-  //       return Promise.reject(err);
-  //     });
-  // },
+  get(id) {
+    return this.findOne({ _id: id })
+      .execAsync().then((site) => {
+        if (site) {
+          return site;
+        }
+        const err = new APIError('No such listing exists!', httpStatus.NOT_FOUND);
+        return Promise.reject(err);
+      });
+  },
 
   /**
    * List sites in descending order of 'createdAt' timestamp.

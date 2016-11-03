@@ -3,20 +3,20 @@ import Listing from '../models/listing';
 /**
  * Load listing and append listing to req.
  */
-// function load(req, res, next, id) {
-//   Listing.get(id).then((listing) => {
-//     req.listing = listing;    // eslint-disable-line no-param-reassign
-//     return next();
-//   }).error((e) => next(e));
-// }
+function load(req, res, next, id) {
+  Listing.get(id).then((listing) => {
+    req.listing = listing;    // eslint-disable-line no-param-reassign
+    return next();
+  }).error((e) => next(e));
+}
 
 /**
  * Get listings
  * @returns {Listing}
  */
-// function get(req, res) {
-//   return res.json(req.listings);
-// }
+function get(req, res) {
+  return res.json(req.listing);
+}
 
 /**
 * Create new listing
@@ -87,4 +87,15 @@ function list(req, res, next) {
     .error((e) => next(e));
 }
 
-export default { list, create };
+/**
+ * Delete listing.
+ * @returns {Listing}
+ */
+function remove(req, res, next) {
+  const { listing } = req;
+  listing.removeAsync()
+    .then((deletedListing) => res.json(deletedListing))
+    .error((e) => next(e));
+}
+
+export default { list, create, remove, get, load };
