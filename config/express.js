@@ -49,6 +49,9 @@ if (config.env === 'development') {
 // mount all routes on /api path
 app.use('/api', routes);
 
+// mount all static resources
+app.use(express.static('public'));
+
 // if error is not an instanceOf APIError, convert it.
 app.use((err, req, res, next) => {
   if (err instanceof expressValidation.ValidationError) {
