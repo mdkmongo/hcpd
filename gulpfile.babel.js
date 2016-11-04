@@ -12,6 +12,7 @@ const plugins = gulpLoadPlugins();
 const paths = {
   js: ['./**/*.js', '!dist/**', '!node_modules/**', '!coverage/**'],
   nonJs: ['./package.json', './.gitignore'],
+  static: ['./public/**/*'],
   tests: './server/tests/*.js'
 };
 
@@ -57,6 +58,13 @@ gulp.task('copy', () =>
   gulp.src(paths.nonJs)
     .pipe(plugins.newer('dist'))
     .pipe(gulp.dest('dist'))
+);
+
+// Copy static public folder to dist
+gulp.task('copy', () =>
+  gulp.src(paths.static)
+    .pipe(plugins.newer('dist'))
+    .pipe(gulp.dest('dist/public'))
 );
 
 // Compile ES6 to ES5 and copy to dist
