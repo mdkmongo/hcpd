@@ -13,6 +13,8 @@ import winstonInstance from './winston';
 import routes from '../server/routes';
 import config from './env';
 import APIError from '../server/helpers/APIError';
+import path from 'path';
+
 
 const app = express();
 
@@ -50,7 +52,7 @@ if (config.env === 'development') {
 app.use('/api', routes);
 
 // mount all static resources
-app.use(express.static('public'));
+app.use('/media', express.static('public'));
 
 // if error is not an instanceOf APIError, convert it.
 app.use((err, req, res, next) => {
