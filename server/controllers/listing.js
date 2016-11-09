@@ -75,6 +75,60 @@ function create(req, res, next) {
     .error((e) => next(e));
 }
 
+function update(req, res, next) {
+  const {
+    siteId,
+    firstName,
+    lastName,
+    paymentMethods,
+    languagesSpoken,
+    typeOfPractice,
+    officeManagersName,
+    practiceWebsite,
+    practicePhone,
+    zipCode,
+    state,
+    city,
+    addressOne,
+    addressTwo,
+    country,
+    practiceName,
+    takingPatients,
+    sex,
+    email,
+    designation,
+    lat,
+    long } = req.body;
+  const listing = req.listing;
+
+  listing.site_id = siteId;
+  listing.first_name = firstName;
+  listing.last_name = lastName;
+  listing.payment_methods = paymentMethods;
+  listing.languages_spoken = languagesSpoken;
+  listing.type_of_practice = typeOfPractice;
+  listing.office_managers_name = officeManagersName;
+  listing.practice_website = practiceWebsite;
+  listing.practice_phone = practicePhone;
+  listing.zip_code = zipCode;
+  listing.state = state; // eslint-disable-line object-shorthand
+  listing.city = city; // eslint-disable-line object-shorthand
+  listing.address_1 = addressOne;
+  listing.address_2 = addressTwo;
+  listing.country = country; // eslint-disable-line object-shorthand
+  listing.practice_name = practiceName;
+  listing.taking_patients = takingPatients;
+  listing.sex = sex; // eslint-disable-line object-shorthand
+  listing.email = email; // eslint-disable-line object-shorthand
+  listing.designation = designation; // eslint-disable-line object-shorthand
+  listing.lat = lat; // eslint-disable-line object-shorthand
+  listing.long = long; // eslint-disable-line object-shorthand
+
+  listing.saveAsync()
+    .then((savedListing) => res.json(savedListing))
+    .error((e) => next(e));
+}
+
 /**
  * Get listing list.
  * @property {number} req.query.skip - Number of listings to be skipped.
@@ -98,4 +152,4 @@ function remove(req, res, next) {
     .error((e) => next(e));
 }
 
-export default { list, create, remove, get, load };
+export default { list, create, remove, get, load, update };

@@ -55,6 +55,20 @@ describe('## Listing APIs', () => {
         });
     });
   });
+
+  describe('# PUT /api/listings/:listingId', () => {
+    it('should update a single listing', (done) => {
+      listing.firstName = 'UpdateTest';
+      request(app)
+        .put(`/api/listings/${listing.id}`)
+        .send(listing)
+        .expect(httpStatus.OK)
+        .then(res => {
+          expect(res.body.first_name).to.equal(listing.firstName);
+          done();
+        });
+    });
+  });
   describe('# DELETE /api/listings/:listingId', () => {
     it('should delete a single listing', (done) => {
       request(app)

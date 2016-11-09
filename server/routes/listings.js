@@ -15,6 +15,9 @@ router.route('/:listingId')
 
   .get(listingsCtrl.get)
 
+  /** PUT /api/sites/:listingId - Update site */
+  .put(validate(paramValidation.updateListing), listingsCtrl.update)
+
   .delete(listingsCtrl.remove);
 
 /** Load listings when API with siteId route parameter is hit */

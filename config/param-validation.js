@@ -52,5 +52,11 @@ export default {
       city: Joi.string().required(),
       addressOne: Joi.string().required()
     }
+  },
+
+  updateListing: {
+    body: {
+      siteId: Joi.string().hex().required()
+    }
   }
 };

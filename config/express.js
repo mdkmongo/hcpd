@@ -13,7 +13,6 @@ import winstonInstance from './winston';
 import routes from '../server/routes';
 import config from './env';
 import APIError from '../server/helpers/APIError';
-import path from 'path';
 
 
 const app = express();
